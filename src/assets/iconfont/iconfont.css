@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1585719445208'); /* IE9 */
+  src: url('iconfont.eot?t=1585719445208#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAARAAAsAAAAACLwAAAP0AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqEWIQVATYCJAMUCwwABCAFhG0HSRuiB1GUDkqc7MdBTsZrShwOpRaZXsyz28k/vlGLlwiqNaxn4YLgAEgCSlRRcaSiouBRuJeGjP/yLCz9/Hv6J8kg5EltByt7UHGTZUUWDM6T/WkWT/im2yNT5vX+55jxosTyr20ukUVRjQMc7/nebNh1UdR6oHcgJ+o3jN1EHuR1Au1GjYadFJbXg4sCzAvEA8uowSVhVCryQ6vQFGwt/thSqFrTPPwW8MH7/fgNm+ECkpoB3OjyvkAH2d9GtI6Q7TJcZxneD2eHsouMZaAQj4XOB0QQWUZot0Y7OADatUrSUMPG1NY6u51IuiF1O/yHR5IVQTQAcjvBgRAtfBuBOSS+jeGQ+damUK1ax4uvRVnplnZ04CP+AOpp72FVyNK0g+M6H58ADw/voV7t7gtWAcgr3dxwwuQxfzVGuJGxaWvc3eWeZQvqww0aOnFPYmpNSXmb5P2ZNQsC0apdazYE0fuvDNetlFctCNZarZTN1mixNJjNk5G83ufHv5XV2jk/iFo97cCewIZV69auDOi22YIvWN2umAfvthaazdnmxw3HLAVnbEWXLQlXbcqLtuCVVgobf8QWddI8eq858pRNiS2ZstR5rrMP1qs+Cohz5o+qDGFpNQJ2KKtU51Qvldn35HvenE8dsddpTTII//40eMKkhAbsKVDsmEE+8cHxlO9TXwrudq0irlwmVvE8yiPalVHyyt4ufMcOnJd1iXzeiG8XecKXBr1185zz+3UhA+W5f6Zi1L9kiKuZ6jh18pRldtOQiPPMmDevG4f55mKm3LCs7pSBhbqPlVU+fj7Mgdfgt/m0WVxqLyLrHZa2TnQVQH59NNIMvmbEuU2k6ceqh28DT8CL8jp+DpBPcQXA/w/EEyId4L9MnCXkP+NvxM07+xTv9G+tHQ4AX/eXrPIq/ssOkN+D16vSWPQf9CvpABRVAky1mCKMmFLtdPGpzu6gO/HKm96+t9+LYdxDILKHVlXEQ9JiBLJW04iCWYaqwzY0Wu1DuyVFuzsMEBCiuAKLZnEQeh2BpNsXyHrdRhTMc6iGvYNGbxDQ7ir8j+wwG6xbnoDUEtKRmk6S1XImGlkkNz+/FjGtBrUQl3hECgki6ydjFKp0vAiZkDDECrGNiZUkmqQFzkgWcjdDBgNHtghcM9JKiiZJaklVKumiV1JoOSO4OSZA1CSIDkmjE4mlxTGhaXeJW+bnayGMVgZqQkVbi5uCCETs4KQYCqoGiCKlqVHbpYwWtWHEkkhocRZNwDEiFfJ2xAAjHFJL8aRmiJZEoalDqEUqpdCJbqpUTK823uMeaAeOqoFjBOaAOWJO0NwiA5KQAzlDFF0r1IyJpVkkECwnAgA=') format('woff2'),
+  url('iconfont.woff?t=1585719445208') format('woff'),
+  url('iconfont.ttf?t=1585719445208') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1585719445208#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-delete:before {
+  content: "\e699";
+}
+
+.icon-less:before {
+  content: "\e629";
+}
+
+.icon-Magnifier:before {
+  content: "\e62d";
+}
+
+.icon-ios:before {
+  content: "\e676";
+}
+
